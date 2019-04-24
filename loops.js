@@ -24,5 +24,7 @@ function doWhileLoop(num){
   return i;
 }
 
-do {console.log()}
+do {console.log("I run once regardless.")} while(){
+  
+}
 }
